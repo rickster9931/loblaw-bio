@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+cell_counts.db
+outputs/
+.DS_Store
